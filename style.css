@@ -55,9 +55,9 @@ img {
     border-radius: 8px;
     box-shadow: 0 0 10px #df0606e9;
     text-align: center;
-    width: 400px;
+    width: 270px;
     display: flex;
-    height: 200px;
+    height: 250px;
 }
 
 .login-container h2 p{
@@ -78,7 +78,7 @@ img {
     border-radius: 8px;
     box-shadow: 0 0 10px #df0606e9;
     text-align: center;
-    width: 400px;
+    width: 300px;
     display: flex;
     height: 200px;
 }
